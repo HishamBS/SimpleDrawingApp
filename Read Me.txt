@@ -1,0 +1,2 @@
+simple shape-drawing app made for university course "Computer Graphics"
+Using java , Javafx
